@@ -1,0 +1,154 @@
+{
+  "main": {
+    "name":"Rick Marshall",
+    "occupation":"Technologist",
+    "description":"I am lead technology teams to success",
+    "image":"profilepic.png",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "rick.marshall@ddsciences.com",
+    "phone": "813-675-7750",
+    "address":{
+      "city":"Wesley Chapel",
+      "state":"Fl",
+      "zip": "33543"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/ddsciences",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/richarddmarshall/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/isben22",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"Google Number",
+        "url":"http://skype.com",
+        "className":"fab fa-google"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"devCodeCamp",
+        "degree":"Full Stack Web Development",
+        "graduated":"February 2021",
+        "description":"Learned the foundations of web development focusing on the MERN consisting of MongoDB, Express.js, React.js and Node. "
+      },
+      {
+        "school":"University of Phoenix",
+        "degree":"Masters of Business Administration and Technology Management (MBA/TM)",
+        "graduated":"December 2006",
+        "description":"Studying while on active duty, and while deployed, I use my education to advise the vision for my various technology projects."
+      },
+      {
+        "school":"Gonzaga University",
+        "degree":"Bachelor of Arts General Studies and Military Science",
+        "graduated":"May 1999",
+        "description":"A modern Jesuit university nestled in the city of Spokane Washington, Gonzaga provided me a strong basis for critical thinking."
+      }
+    ],
+    "work":[
+      {
+        "company":"Decision and Data Sciences Inc.",
+        "title":"CEO/President",
+        "years":"June 2013 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Exostrategies Inc",
+        "title":"Enterprise Architect",
+        "years":"March 2007 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"40%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"30%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"60%"
+      },
+      {
+        "name":"CSS",
+        "level":"75%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
